@@ -1,10 +1,10 @@
-![License](https://img.shields.io/badge/License-MIT-Green)
+![License](https://img.shields.io/badge/License-MIT-red)
   
   ## Title
-  ReadMe Generattor
+  Good ReadMe Generator
 
   ## Description
-  In this project, I created an automated ReadMe generator, so that people will be able to produce a professional ReadMe for their projects.
+  In this project, I created a command-line program that will automatically create a ReadMe file after the user inputs ceertain information.
 
   ## Table of Contents :
   [Title](#Title)
@@ -17,20 +17,20 @@
   [Questions](#Questions)
 
   ## Installation: 
-  clone the repository.
+  Clone the repository and enter the test command below.
 
   ## Usage
-  This project code can be used for educational purposes only.
+  Others can use this project for educational purposes only.
 
   ## License
   This project is licensed under the MIT license.
 
   ## Contributors
-  undefined
+  Lauren Noeltner
 
   ## Test
   Use this command to initiate the program: "node index.js"
 
   ## Questions
-  Ask questions at laurennoeltner@gmail.com
+  You can ask questions at: laurennoeltner@gmail.com
 
