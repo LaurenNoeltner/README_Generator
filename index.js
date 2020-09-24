@@ -57,37 +57,3 @@ inquirer
   .catch((err) => {
     console.log(err);
   });
-
-// function generateMarkdown(response) {
-//   return `
-//   ## ${response.title}
-//   `;
-// }
-
-// let responses = [];
-
-// for (let i = 0; i < questionList.length; i++) {
-//   inquirer.prompt(...questionList[i]).then.waitFor(response) {
-//       console.log(response);
-//   }};
-//   inquirer.then(function (response) {
-//     responses.push(response);
-//   });
-
-// function to write README file
-// function writeToFile(myFile, response) {}
-
-// // function to initialize program
-// function init() {}
-
-// // function call to initialize program
-// init();
-
-// inquirer
-//   .prompt([
-//     { type: "input", message: "What is the title?", name: "title" },
-//     { type: "input", message: "Describe your project:", name: "description" },
-//   ])
-//   .then(function (response) {
-//     fs.writeFile("", response);
-//   });

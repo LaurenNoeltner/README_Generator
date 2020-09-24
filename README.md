@@ -1,36 +1,46 @@
 ![License](https://img.shields.io/badge/License-MIT-red)
-  
-  ## Title
-  Good ReadMe Generator
 
-  ## Description
-  In this project, I created a command-line program that will automatically create a ReadMe file after the user inputs ceertain information.
+## Title
 
-  ## Table of Contents :
-  [Title](#Title)
-  [Description](#Description)
-  [Installation](#Installation)
-  [Usage](#Usage)
-  [License](#License) 
-  [Contributors](#Contributors) 
-  [Test](#Test)
-  [Questions](#Questions)
+ReadMe Generator
 
-  ## Installation: 
-  Clone the repository and enter the test command below.
+## Description
 
-  ## Usage
-  Others can use this project for educational purposes only.
+I made this project to automatically create a ReadMe file from user input. With this program, a user can quickly make a professional ReadMe file for any project they have.
 
-  ## License
-  This project is licensed under the MIT license.
+![Sample](utils/Screenshot.png)
 
-  ## Contributors
-  Lauren Noeltner
+## Table of Contents :
 
-  ## Test
-  Use this command to initiate the program: "node index.js"
+[Title](#Title)
+[Description](#Description)
+[Installation](#Installation)
+[Usage](#Usage)
+[License](#License)
+[Contributors](#Contributors)
+[Test](#Test)
+[Questions](#Questions)
 
-  ## Questions
-  You can ask questions at: laurennoeltner@gmail.com
+## Installation:
 
+Clone the repository and enter the test command below in your console.
+
+## Usage
+
+My project can be used for educational purposes only.
+
+## License
+
+This project is licensed under the MIT license.
+
+## Contributors
+
+Lauren Noeltner
+
+## Test
+
+Use this command to initiate the program: "node index.js"
+
+## Questions
+
+You can ask questions by messaging Lauren at: https://github.com/LNoeltner1
