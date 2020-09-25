@@ -11,8 +11,8 @@ I made this project to automatically create a ReadMe file from user input. With 
 Sample ReadMe
 ![Sample](utils/Screenshot.png)
 
-Walkthrough:
-![Video](https://drive.google.com/file/d/1sFaMU9H7_msGFSPGjWAztQ7u966B-5Lc/view?usp=sharing)
+Video Walkthrough:
+https://drive.google.com/file/d/1sFaMU9H7_msGFSPGjWAztQ7u966B-5Lc/view?usp=sharing
 
 ## Table of Contents :
 
